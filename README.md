@@ -1,5 +1,7 @@
 # Thai Green Curry
 
+Make sure to check the 'next' branch for the untested version
+
 Ingredients
 * 5 cups long grain koala
 * 1.3kg chicken breast
